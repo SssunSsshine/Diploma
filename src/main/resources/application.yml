@@ -3,7 +3,7 @@ server:
 spring:
   datasource:
     driver-class-name: org.postgresql.Driver
-    url: jdbc:postgresql://localhost:5432/ForJava
+    url: jdbc:postgresql://localhost:5432/Crawler
     username: postgres
     password: postgres
   mvc:
